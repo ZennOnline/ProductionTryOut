@@ -62,10 +62,6 @@ section {
 	flex: 1 0 auto;
 }
 
-footer {
-	display: none;
-}
-
 /* Styles for the header (photo, tagline, etc.) */
 
 .resume-header {
@@ -230,7 +226,7 @@ h2 {
 }
 
 .language-progress {
-	background-color: #ffff00;
+	background-color: #D9763D;
 }
 
 .language-level h6 {
@@ -263,6 +259,7 @@ h2 {
 	flex-basis: 1.4em;
 	filter: invert();
 }
+
 
 aside h2 {
 	float:  right;

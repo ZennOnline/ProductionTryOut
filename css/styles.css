@@ -5,24 +5,58 @@
 
 /* Styles for the body */
 
-body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+li {
+	font-family: Arial;
+	color: #595352;
+}
+
+h1 {
+	font-family: Cambria;
+	color: #F2BEA0;
+}
+
+h2 {
+	font-family: Cambria;
+	color: #8B8C61;
+}
+
+h4 {
+	font-family: Arial;
+	color: #D9763D;
+}
+
+h5 {
+	font-family: Arial;
+	color: #F2BEA0;
+}
+
+h6 {
+	font-family: Arial;
+	color: #595352;
+}
+
+a {
+	font-family: Arial;
+	color: #D9763D;
+}
+
+p {
+	font-family: Arial;
+	color: #595352;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #8B8C61;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F2F2F2;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #F2BEA0;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +70,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #D9763D;
 }
 
 .biography-details li, .skill-list li {
@@ -49,3 +83,17 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.footer {
+	background-color: #D9763D;
+}
+
+.language-level {
+	color: #D9763D;
+	border-color: #D9763D !important;
+}
+
+.language-progress {
+	background-color: #D9763D !important;
+}
+
