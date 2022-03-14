@@ -6,8 +6,10 @@
 /* Styles for the body */
 
 li {
-	font-family: roboto-slab;
+	font-family: advent-pro;
 	color: #595352;
+	font-style: normal;
+	font-weight: 100;
 }
 
 h1 {
