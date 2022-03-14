@@ -98,10 +98,11 @@ section {
 
 h1 {
 	font-size: clamp(28px, 3vh, 40px);
-	font-weight: 900;
-	font-family:  Telma;
+	font-weight: 400;
+	font-family: playfair-display;
 	writing-mode: vertical-lr;
-	transform:  rotate(180deg);
+	transform: rotate(180deg);
+	font-style: normal;
 }
 
 .tagline {
@@ -165,8 +166,9 @@ h1 {
 h2 {
 	writing-mode: vertical-lr;
 	font-size: clamp(20px, 2.5vh, 36px);
-	font-weight: 900;
-	font-family:  Telma;
+	font-weight: 400;
+	font-family: playfair-display;
+	font-style: normal;
 }
 
 .resume-main h2 {

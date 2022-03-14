@@ -6,17 +6,19 @@
 /* Styles for the body */
 
 li {
-	font-family: Arial;
+	font-family: roboto-slab;
 	color: #595352;
 }
 
 h1 {
-	font-family: Cambria;
+	font-family: playfair-display;
 	color: #F2BEA0;
+	font-style: normal;
+	font-weight: 400;
 }
 
 h2 {
-	font-family: Cambria;
+	font-family: playfair-displayl; 
 	color: #8B8C61;
 }
 
