@@ -10,6 +10,7 @@ li {
 	color: #595352;
 	font-style: normal;
 	font-weight: 100;
+	font-size: 18px;
 }
 
 h1 {
@@ -17,6 +18,7 @@ h1 {
 	color: #F2BEA0;
 	font-style: normal;
 	font-weight: 400;
+	font-size: 100px;
 }
 
 h2 {
@@ -34,6 +36,7 @@ h5 {
 	color: #F2BEA0;
 	font-style: normal;
 	font-weight: 100;
+	font-size: 20px;
 }
 
 h6 {
@@ -46,11 +49,13 @@ a {
 	color: #D9763D;
 	font-style: normal;
 	font-weight: 400;
+	font-size: 18px; 
 }
 
 p {
 	font-family: "Basel Neue";
 	color: #595352;
+	font-size: 18px;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
