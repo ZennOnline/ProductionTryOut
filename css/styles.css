@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 li {
-	font-family: advent-pro;
+	font-family: "Basel Neue";
 	color: #595352;
 	font-style: normal;
 	font-weight: 100;
@@ -25,27 +25,31 @@ h2 {
 }
 
 h4 {
-	font-family: Arial;
+	font-family: "advent-pro";
 	color: #D9763D;
 }
 
 h5 {
-	font-family: Arial;
+	font-family: "advent-pro";
 	color: #F2BEA0;
+	font-style: normal;
+	font-weight: 100;
 }
 
 h6 {
-	font-family: Arial;
+	font-family: "Basel Neue";
 	color: #595352;
 }
 
 a {
-	font-family: Arial;
+	font-family: "Basel Neue";
 	color: #D9763D;
+	font-style: normal;
+	font-weight: 400;
 }
 
 p {
-	font-family: Arial;
+	font-family: "Basel Neue";
 	color: #595352;
 }
 
