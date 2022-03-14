@@ -29,7 +29,7 @@ body {
 	line-height: 1.1;
 	height: 100%;
 }
-p, h1, h2, h3, h4, li, dt {
+p, h1, h2, h3, h4, h7, li, dt {
 	margin: .3em 0;
 }
 
@@ -104,7 +104,7 @@ h1 {
 	font-style: normal;
 }
 
-.tagline h5 {
+.tagline h7 {
 	font-weight: 200;
 	font-size: 200px;
 	font-style: italic;
