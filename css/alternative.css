@@ -22,7 +22,6 @@ html {
 }
 
 body {
-	font-family: "advent-pro"; 
 	background-color: #ffffff;
 	color: #000020;
 	font-size: clamp(16px, 1.5vw, 20px);
@@ -98,7 +97,6 @@ section {
 
 h1 {
 	font-weight: 400;
-	font-family: "abril-fatface";
 	writing-mode: vertical-lr;
 	transform: rotate(180deg);
 	font-style: normal;
@@ -165,7 +163,6 @@ h1 {
 h2 {
 	writing-mode: vertical-lr;
 	font-weight: 400;
-	font-family: "abril-fatface";
 	font-style: normal;
 }
 

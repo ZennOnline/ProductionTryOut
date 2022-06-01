@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 li {
-	font-family: "actor";
+	font-family: "advent-pro";
 	color: #595352;
 	font-style: normal;
 	font-weight: 100;
@@ -27,7 +27,7 @@ h2 {
 }
 
 h3 {
-	font-family: "actor";
+	font-family: "advent-pro";
 	color: #595352;
 	font-style: bold;
 	font-weight: 100;
@@ -46,7 +46,7 @@ h5 {
 }
 
 h6 {
-	font-family: "actor";
+	font-family: "advent-pro";
 	color: #595352;
 }
 
@@ -59,7 +59,7 @@ h7 {
 }
 
 a {
-	font-family: "actor";
+	font-family: "advent-pro";
 	color: #D9763D;
 	font-style: normal;
 	font-weight: 400;
@@ -67,7 +67,7 @@ a {
 }
 
 p {
-	font-family:  "actor";
+	font-family: "advent-pro";
 	color: #595352;
 	font-size: 18px;
 }
