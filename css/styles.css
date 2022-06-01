@@ -27,7 +27,7 @@ h2 {
 }
 
 h3 {
-	font-family: "acme";
+	font-family: "actor";
 	color: #595352;
 	font-style: bold;
 	font-weight: 100;
@@ -46,7 +46,7 @@ h5 {
 }
 
 h6 {
-	font-family: "acme";
+	font-family: "actor";
 	color: #595352;
 }
 
@@ -59,7 +59,7 @@ h7 {
 }
 
 a {
-	font-family: "acme";
+	font-family: "actor";
 	color: #D9763D;
 	font-style: normal;
 	font-weight: 400;
@@ -67,7 +67,7 @@ a {
 }
 
 p {
-	font-family: "Basel Neue";
+	font-family:  "actor";
 	color: #595352;
 	font-size: 18px;
 }
