@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 li {
-	font-family: "Basel Neue";
+	font-family: "actor";
 	color: #595352;
 	font-style: normal;
 	font-weight: 100;
@@ -14,7 +14,7 @@ li {
 }
 
 h1 {
-	font-family: playfair-display;
+	font-family: "abril-fatface";
 	color: #F2BEA0;
 	font-style: normal;
 	font-weight: 400;
@@ -22,12 +22,12 @@ h1 {
 }
 
 h2 {
-	font-family: playfair-displayl; 
+	font-family: "abril-fatface";
 	color: #8B8C61;
 }
 
 h3 {
-	font-family: "Basel Neue";
+	font-family: "acme";
 	color: #595352;
 	font-style: bold;
 	font-weight: 100;
@@ -35,7 +35,7 @@ h3 {
 }
 
 h4 {
-	font-family: playfair-display;
+	font-family: "abril-fatface";
 	color: #D9763D;
 }
 
@@ -46,12 +46,12 @@ h5 {
 }
 
 h6 {
-	font-family: "Basel Neue";
+	font-family: "acme";
 	color: #595352;
 }
 
 h7 {
-	font-family: advent-pro;
+	font-family: "advent-pro";
 	color: #F2BEA0;
 	font-style: normal;
 	font-weight: 100;
@@ -59,7 +59,7 @@ h7 {
 }
 
 a {
-	font-family: "Basel Neue";
+	font-family: "acme";
 	color: #D9763D;
 	font-style: normal;
 	font-weight: 400;
