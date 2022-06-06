@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 li {
-	font-family: "advent-pro";
+	font-family: 'Nunito', sans-serif;
 	color: #595352;
 	font-style: normal;
 	font-weight: 100;
@@ -14,7 +14,7 @@ li {
 }
 
 h1 {
-	font-family: "abril-fatface";
+	font-family: 'Gentium Plus', serif;
 	color: #F2BEA0;
 	font-style: normal;
 	font-weight: 400;
@@ -22,12 +22,12 @@ h1 {
 }
 
 h2 {
-	font-family: "abril-fatface";
+	font-family: 'Gentium Plus', serif;
 	color: #8B8C61;
 }
 
 h3 {
-	font-family: "advent-pro";
+	font-family: 'Nunito', sans-serif;
 	color: #595352;
 	font-style: bold;
 	font-weight: 100;
@@ -35,23 +35,23 @@ h3 {
 }
 
 h4 {
-	font-family: "abril-fatface";
+	font-family: 'Gentium Plus', serif;
 	color: #D9763D;
 }
 
 h5 {
-	font-family: "advent-pro";
+	font-family: 'Nunito', sans-serif;
 	color: #F2BEA0;
 	font-size: 28px;
 }
 
 h6 {
-	font-family: "advent-pro";
+	font-family: 'Nunito', sans-serif;
 	color: #595352;
 }
 
 h7 {
-	font-family: "advent-pro";
+	font-family: 'Nunito', sans-serif;
 	color: #F2BEA0;
 	font-style: normal;
 	font-weight: 100;
@@ -59,7 +59,7 @@ h7 {
 }
 
 a {
-	font-family: "advent-pro";
+	font-family: 'Nunito', sans-serif;
 	color: #D9763D;
 	font-style: normal;
 	font-weight: 400;
@@ -67,7 +67,7 @@ a {
 }
 
 p {
-	font-family: "advent-pro";
+	font-family: 'Nunito', sans-serif;
 	color: #595352;
 	font-size: 18px;
 }
